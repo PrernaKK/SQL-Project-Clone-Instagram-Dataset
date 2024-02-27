@@ -7,3 +7,5 @@ We used SQL to get crucial data from the dataset
 Find solution to the first question in the file ER_diagram_for_igClone_DB
 
 Soultion for the rest of the questions is in the file Adv_SQL_Project
+
+File ig_clone_data.sql is the dataset.
